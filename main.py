@@ -1,28 +1,4 @@
-# from twilio.rest import Client
 
-# account_sid = 'AC4f7fa6210cee28300f32a960fc309446'
-# auth_token = 'd998a6f98e991e381d3204eb226efabf'
-# client = Client(account_sid, auth_token)
-
-# message = client.messages.create(
-#   from_='whatsapp:+14155238886',
-#   body='Your appointment is coming up on July 21 at 3PM',
-#   to='whatsapp:+971556902820'
-# )
-
-# print(message.body)
-
-
-# import requests
-
-
-# url = "https://app.chatwoot.com/api/v1/accounts/101882/conversations/3"
-# api_access_token ="ERVcTCRYZ8EgjSAK27zSezTm"  
-
-# headers = {
-#     "api_access_token ":api_access_token,
-#     "Content-Type": "application/json"
-# }
 
 # response = requests.get(url, headers=headers)
 
